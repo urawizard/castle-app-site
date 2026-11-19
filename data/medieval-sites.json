@@ -1,0 +1,3656 @@
+[
+{
+"name": "3 - Cathedral Interior",
+"lon": -3.58955,
+"lat": 56.56516,
+"notable": false
+},
+{
+"name": "Abbey",
+"lon": -3.48819,
+"lat": 51.40797,
+"notable": true
+},
+{
+"name": "Abbey",
+"lon": 0.46953,
+"lat": 51.44133,
+"notable": false
+},
+{
+"name": "Abbey Chapel",
+"lon": -1.27919,
+"lat": 51.66995,
+"notable": false
+},
+{
+"name": "Abbey Church",
+"lon": -3.48625,
+"lat": 58.51677,
+"notable": true
+},
+{
+"name": "Abbey Church",
+"lon": -2.72179,
+"lat": 56.05843,
+"notable": false
+},
+{
+"name": "Abbey Church (Remains of)",
+"lon": -3.26457,
+"lat": 56.54312,
+"notable": false
+},
+{
+"name": "Abbey Church (deconsecrated)",
+"lon": -2.5145,
+"lat": 56.00031,
+"notable": true
+},
+{
+"name": "Abbey Church of Mary St Helena",
+"lon": -0.46934,
+"lat": 52.11493,
+"notable": true
+},
+{
+"name": "Abbey Church of Saint Mary",
+"lon": 0.75944,
+"lat": 52.9208,
+"notable": true
+},
+{
+"name": "Abbey Church of St Mary",
+"lon": -3.77563,
+"lat": 50.49298,
+"notable": false
+},
+{
+"name": "Abbey Church of St Mary",
+"lon": -0.76524,
+"lat": 52.46384,
+"notable": false
+},
+{
+"name": "Abbey Church of St Mary, St Sansom and St Branwalader",
+"lon": -2.28766,
+"lat": 50.81981,
+"notable": true
+},
+{
+"name": "Abbey Cloister",
+"lon": -0.00302,
+"lat": 51.68825,
+"notable": true
+},
+{
+"name": "Abbey Cwm Hir Hall",
+"lon": -3.38855,
+"lat": 52.33128,
+"notable": true
+},
+{
+"name": "Abbey Cwm-hir",
+"lon": -3.38755,
+"lat": 52.32987,
+"notable": true
+},
+{
+"name": "Abbey Dingle",
+"lon": -3.18616,
+"lat": 52.98845,
+"notable": true
+},
+{
+"name": "Abbey Fish Ponds",
+"lon": -0.28773,
+"lat": 53.19817,
+"notable": true
+},
+{
+"name": "Abbey Garth",
+"lon": -0.93648,
+"lat": 53.85025,
+"notable": false
+},
+{
+"name": "Abbey Gatehouse",
+"lon": 0.8738,
+"lat": 52.894,
+"notable": false
+},
+{
+"name": "Abbey House",
+"lon": -2.24114,
+"lat": 52.81555,
+"notable": true
+},
+{
+"name": "Abbey House Gardens",
+"lon": -2.09728,
+"lat": 51.58546,
+"notable": true
+},
+{
+"name": "Abbey Life Church",
+"lon": -5.89531,
+"lat": 54.67543,
+"notable": false
+},
+{
+"name": "Abbey Model",
+"lon": 0.71899,
+"lat": 52.24519,
+"notable": false
+},
+{
+"name": "Abbey Park",
+"lon": -1.94568,
+"lat": 52.09039,
+"notable": false
+},
+{
+"name": "Abbey Remains",
+"lon": -1.9467,
+"lat": 52.0909,
+"notable": true
+},
+{
+"name": "Abbey Road Crossing",
+"lon": -0.17733,
+"lat": 51.53206,
+"notable": true
+},
+{
+"name": "Abbey Road Studios",
+"lon": -0.17822,
+"lat": 51.532,
+"notable": true
+},
+{
+"name": "Abbey Ruins",
+"lon": -0.96682,
+"lat": 51.45534,
+"notable": true
+},
+{
+"name": "Abbey Ruins",
+"lon": 0.71966,
+"lat": 52.24429,
+"notable": true
+},
+{
+"name": "Abbey St Bathan's Church",
+"lon": -2.38724,
+"lat": 55.85307,
+"notable": true
+},
+{
+"name": "Abbey Yards Field Cemetery",
+"lon": -2.15465,
+"lat": 55.88739,
+"notable": false
+},
+{
+"name": "Abbey of St Mary",
+"lon": -1.58284,
+"lat": 52.34882,
+"notable": true
+},
+{
+"name": "Abbotsbury Abbey Remains",
+"lon": -2.59868,
+"lat": 50.66449,
+"notable": false
+},
+{
+"name": "Alvecote Priory",
+"lon": -1.63059,
+"lat": 52.6358,
+"notable": true
+},
+{
+"name": "Ampleforth Abbey Church",
+"lon": -1.08467,
+"lat": 54.20185,
+"notable": true
+},
+{
+"name": "Anglesey Abbey Visitor Centre",
+"lon": 0.24433,
+"lat": 52.23618,
+"notable": false
+},
+{
+"name": "Arbroath Abbey",
+"lon": -2.58243,
+"lat": 56.56268,
+"notable": true
+},
+{
+"name": "Arch of Abbey Cloisters",
+"lon": -4.14503,
+"lat": 50.54946,
+"notable": true
+},
+{
+"name": "Ardboe Abbey",
+"lon": -6.50346,
+"lat": 54.62014,
+"notable": true
+},
+{
+"name": "Ardchattan Priory",
+"lon": -5.29548,
+"lat": 56.46275,
+"notable": true
+},
+{
+"name": "Armagh Friary",
+"lon": -6.65337,
+"lat": 54.34426,
+"notable": false
+},
+{
+"name": "Augustinian Priory of St. Cuthbert",
+"lon": -1.98691,
+"lat": 53.98497,
+"notable": false
+},
+{
+"name": "Balmerino Abbey",
+"lon": -3.04166,
+"lat": 56.40989,
+"notable": true
+},
+{
+"name": "Bangor Abbey",
+"lon": -5.67483,
+"lat": 54.65569,
+"notable": true
+},
+{
+"name": "Bangor Cathedral",
+"lon": -4.12751,
+"lat": 53.22649,
+"notable": true
+},
+{
+"name": "Bardney Abbey",
+"lon": -0.33343,
+"lat": 53.2204,
+"notable": true
+},
+{
+"name": "Barlings Abbey",
+"lon": -0.36867,
+"lat": 53.24767,
+"notable": true
+},
+{
+"name": "Barlings Abbey",
+"lon": -0.38956,
+"lat": 53.25919,
+"notable": true
+},
+{
+"name": "Basingwerk Abbey",
+"lon": -3.20762,
+"lat": 53.28798,
+"notable": true
+},
+{
+"name": "Bath Abbey",
+"lon": -2.35885,
+"lat": 51.38143,
+"notable": true
+},
+{
+"name": "Battle Abbey Chapel Crypt",
+"lon": 0.4882,
+"lat": 50.91447,
+"notable": true
+},
+{
+"name": "Battle Abbey Chapter House",
+"lon": 0.48759,
+"lat": 50.91428,
+"notable": true
+},
+{
+"name": "Battle Abbey Church Site",
+"lon": 0.4877,
+"lat": 50.9145,
+"notable": true
+},
+{
+"name": "Battle Abbey Dormitory",
+"lon": 0.48749,
+"lat": 50.91394,
+"notable": true
+},
+{
+"name": "Battle Abbey Inner Parlour",
+"lon": 0.48753,
+"lat": 50.91419,
+"notable": true
+},
+{
+"name": "Battle Abbey Latrines",
+"lon": 0.48775,
+"lat": 50.91371,
+"notable": true
+},
+{
+"name": "Bayham Old Abbey",
+"lon": 0.35537,
+"lat": 51.10391,
+"notable": true
+},
+{
+"name": "Baysdale Abbey",
+"lon": -1.04318,
+"lat": 54.45193,
+"notable": false
+},
+{
+"name": "Beauchief Abbey",
+"lon": -1.50084,
+"lat": 53.33319,
+"notable": true
+},
+{
+"name": "Beaulieu Abbey",
+"lon": -1.45008,
+"lat": 50.82195,
+"notable": true
+},
+{
+"name": "Beauvale Priory",
+"lon": -1.26721,
+"lat": 53.03668,
+"notable": true
+},
+{
+"name": "Beeleigh Abbey",
+"lon": 0.66355,
+"lat": 51.73797,
+"notable": true
+},
+{
+"name": "Benburb Priory",
+"lon": -6.74426,
+"lat": 54.4115,
+"notable": false
+},
+{
+"name": "Bermondsey abbey infirmary buildings",
+"lon": -0.0788,
+"lat": 51.49732,
+"notable": false
+},
+{
+"name": "Beverley Minster",
+"lon": -0.42469,
+"lat": 53.8392,
+"notable": true
+},
+{
+"name": "Bicknacre Priory",
+"lon": 0.58235,
+"lat": 51.69453,
+"notable": true
+},
+{
+"name": "Binham Priory",
+"lon": 0.94608,
+"lat": 52.91984,
+"notable": true
+},
+{
+"name": "Birkenhead Priory",
+"lon": -3.01169,
+"lat": 53.38959,
+"notable": true
+},
+{
+"name": "Blackburn Cathedral",
+"lon": -2.48143,
+"lat": 53.74732,
+"notable": true
+},
+{
+"name": "Blackfriars Friary",
+"lon": -3.18532,
+"lat": 51.48316,
+"notable": false
+},
+{
+"name": "Blackfriars Priory",
+"lon": -2.71336,
+"lat": 52.06011,
+"notable": true
+},
+{
+"name": "Blunsdon Abbey",
+"lon": -1.8031,
+"lat": 51.60634,
+"notable": true
+},
+{
+"name": "Bolton Priory",
+"lon": -1.88809,
+"lat": 53.98381,
+"notable": true
+},
+{
+"name": "Bonamargy Friary",
+"lon": -6.23101,
+"lat": 55.20205,
+"notable": true
+},
+{
+"name": "Bordesley Abbey",
+"lon": -1.93405,
+"lat": 52.31668,
+"notable": true
+},
+{
+"name": "Bourne Abbey",
+"lon": -0.3756,
+"lat": 52.76633,
+"notable": true
+},
+{
+"name": "Boxgrove Priory",
+"lon": -0.71089,
+"lat": 50.85995,
+"notable": true
+},
+{
+"name": "Boxgrove Priory and Grounds",
+"lon": -0.71084,
+"lat": 50.86037,
+"notable": true
+},
+{
+"name": "Boxgrove Priory.",
+"lon": -0.71105,
+"lat": 50.86049,
+"notable": true
+},
+{
+"name": "Boxley Abbey",
+"lon": 0.52506,
+"lat": 51.30032,
+"notable": true
+},
+{
+"name": "Bradenstoke Abbey",
+"lon": -2.00767,
+"lat": 51.51077,
+"notable": true
+},
+{
+"name": "Bradford Cathedral Church of St Peter",
+"lon": -1.74774,
+"lat": 53.7954,
+"notable": true
+},
+{
+"name": "Bradwell Abbey",
+"lon": -0.79573,
+"lat": 52.04741,
+"notable": true
+},
+{
+"name": "Brechin Cathedral",
+"lon": -2.66149,
+"lat": 56.73075,
+"notable": true
+},
+{
+"name": "Brecon Cathedral",
+"lon": -3.39193,
+"lat": 51.9511,
+"notable": true
+},
+{
+"name": "Bridlington Priory Church",
+"lon": -0.2018,
+"lat": 54.09434,
+"notable": true
+},
+{
+"name": "Brinkburn Priory",
+"lon": -1.81888,
+"lat": 55.27879,
+"notable": true
+},
+{
+"name": "Brinkburn Priory Church",
+"lon": -1.81902,
+"lat": 55.27891,
+"notable": true
+},
+{
+"name": "Bristol Cathedral",
+"lon": -2.60067,
+"lat": 51.45166,
+"notable": true
+},
+{
+"name": "Brooke Priory",
+"lon": -0.75108,
+"lat": 52.64562,
+"notable": true
+},
+{
+"name": "Buckfast Abbey",
+"lon": -3.77551,
+"lat": 50.49299,
+"notable": true
+},
+{
+"name": "Buckland Abbey",
+"lon": -4.13353,
+"lat": 50.4813,
+"notable": true
+},
+{
+"name": "Bug Cathedral",
+"lon": -1.79818,
+"lat": 51.06376,
+"notable": false
+},
+{
+"name": "Buildwas Abbey",
+"lon": -2.52865,
+"lat": 52.63546,
+"notable": true
+},
+{
+"name": "Bullinton Priory",
+"lon": -0.35048,
+"lat": 53.27571,
+"notable": false
+},
+{
+"name": "Burscough Priory",
+"lon": -2.85628,
+"lat": 53.58304,
+"notable": true
+},
+{
+"name": "Burwell Priory",
+"lon": 0.03424,
+"lat": 53.29715,
+"notable": true
+},
+{
+"name": "Bury St Edmunds Abbey",
+"lon": 0.71948,
+"lat": 52.24422,
+"notable": true
+},
+{
+"name": "Bury St Edmunds Abbey Ruins",
+"lon": 0.71917,
+"lat": 52.24419,
+"notable": true
+},
+{
+"name": "Byland Abbey",
+"lon": -1.15893,
+"lat": 54.20308,
+"notable": true
+},
+{
+"name": "Caldey Abbey",
+"lon": -4.68652,
+"lat": 51.63747,
+"notable": true
+},
+{
+"name": "Caldey Old Priory",
+"lon": -4.6881,
+"lat": 51.63468,
+"notable": true
+},
+{
+"name": "Cambuskenneth Abbey",
+"lon": -3.91723,
+"lat": 56.12301,
+"notable": true
+},
+{
+"name": "Canonsleigh Priory",
+"lon": -3.32771,
+"lat": 50.94858,
+"notable": true
+},
+{
+"name": "Canterbury Cathedral",
+"lon": 1.08286,
+"lat": 51.2798,
+"notable": true
+},
+{
+"name": "Canterbury Cathedral Gates",
+"lon": 1.0811,
+"lat": 51.27927,
+"notable": false
+},
+{
+"name": "Cardiff Metropolitan Cathedral of Saint David",
+"lon": -3.17405,
+"lat": 51.48091,
+"notable": true
+},
+{
+"name": "Carisbrooke Priory",
+"lon": -1.3077,
+"lat": 50.68588,
+"notable": true
+},
+{
+"name": "Carlisle Cathedral",
+"lon": -2.9385,
+"lat": 54.89474,
+"notable": true
+},
+{
+"name": "Carmelite Priory Church",
+"lon": 1.3005,
+"lat": 52.6345,
+"notable": true
+},
+{
+"name": "Cartmel Priory",
+"lon": -2.95235,
+"lat": 54.2012,
+"notable": true
+},
+{
+"name": "Castle Acre Priory",
+"lon": 0.68289,
+"lat": 52.7007,
+"notable": true
+},
+{
+"name": "Cathedral Campanile",
+"lon": -1.79784,
+"lat": 51.06575,
+"notable": false
+},
+{
+"name": "Cathedral Church of Christ and the Blessed Mary, the Virgin of Worcester",
+"lon": -2.22081,
+"lat": 52.18873,
+"notable": true
+},
+{
+"name": "Cathedral Church of Christ and the Blessed Virgin Mary",
+"lon": -2.89046,
+"lat": 53.19179,
+"notable": true
+},
+{
+"name": "Cathedral Church of Saint Marie",
+"lon": -1.46806,
+"lat": 53.38127,
+"notable": true
+},
+{
+"name": "Cathedral Church of Saint Philip",
+"lon": -1.8989,
+"lat": 52.48118,
+"notable": true
+},
+{
+"name": "Cathedral Church of St Machar",
+"lon": -2.10237,
+"lat": 57.16978,
+"notable": true
+},
+{
+"name": "Cathedral Church of St Martin",
+"lon": -1.13707,
+"lat": 52.63469,
+"notable": true
+},
+{
+"name": "Cathedral Church of St Mary and St Helen",
+"lon": 0.30651,
+"lat": 51.61968,
+"notable": true
+},
+{
+"name": "Cathedral Church of St Thomas of Canterbury",
+"lon": -1.10429,
+"lat": 50.79052,
+"notable": true
+},
+{
+"name": "Cathedral Church of St. Mary",
+"lon": -1.61935,
+"lat": 54.9691,
+"notable": true
+},
+{
+"name": "Cathedral Church of St. Michael & St. George (RC)",
+"lon": -0.75973,
+"lat": 51.25987,
+"notable": false
+},
+{
+"name": "Cathedral Church of the Holy Trinity",
+"lon": -5.72173,
+"lat": 54.32758,
+"notable": true
+},
+{
+"name": "Cathedral House",
+"lon": -1.79077,
+"lat": 53.63944,
+"notable": false
+},
+{
+"name": "Cathedral Oak",
+"lon": -1.70508,
+"lat": 51.41048,
+"notable": false
+},
+{
+"name": "Cathedral Revival Church",
+"lon": -1.88875,
+"lat": 52.47316,
+"notable": false
+},
+{
+"name": "Cathedral of St John the Evangelist",
+"lon": -1.09431,
+"lat": 50.80035,
+"notable": true
+},
+{
+"name": "Cathedral of St John the Evangelist",
+"lon": -2.26109,
+"lat": 53.48368,
+"notable": true
+},
+{
+"name": "Cathedral of St Mary of the Assumption",
+"lon": -2.10637,
+"lat": 57.1454,
+"notable": true
+},
+{
+"name": "Cathedral of the Dormition and All Saints",
+"lon": -0.16905,
+"lat": 51.50056,
+"notable": true
+},
+{
+"name": "Cathedral of the Nativity of the Mother of God and the Holy Royal Martyrs",
+"lon": -0.27604,
+"lat": 51.48963,
+"notable": true
+},
+{
+"name": "Catley Priory",
+"lon": -0.33112,
+"lat": 53.08548,
+"notable": true
+},
+{
+"name": "Cerne Abbey",
+"lon": -2.47634,
+"lat": 50.81114,
+"notable": false
+},
+{
+"name": "Chapel of Alton Abbey",
+"lon": -1.03579,
+"lat": 51.13554,
+"notable": true
+},
+{
+"name": "Chelmsford Cathedral",
+"lon": 0.47235,
+"lat": 51.73525,
+"notable": true
+},
+{
+"name": "Cheltenham Minster",
+"lon": -2.07652,
+"lat": 51.90142,
+"notable": true
+},
+{
+"name": "Chertsey Abbey fish ponds",
+"lon": -0.50336,
+"lat": 51.39503,
+"notable": false
+},
+{
+"name": "Chichester Cathedral",
+"lon": -0.78072,
+"lat": 50.83625,
+"notable": true
+},
+{
+"name": "Chirbury Priory (dissolved 1535)",
+"lon": -3.09112,
+"lat": 52.57965,
+"notable": true
+},
+{
+"name": "Christ Church Cathedral",
+"lon": -1.25469,
+"lat": 51.75012,
+"notable": true
+},
+{
+"name": "Christchurch Priory",
+"lon": -1.77416,
+"lat": 50.73213,
+"notable": true
+},
+{
+"name": "Church of Scotland New Abbey Parish Church",
+"lon": -3.61845,
+"lat": 54.97755,
+"notable": false
+},
+{
+"name": "Church of St Mary, Margam Abbey",
+"lon": -3.73041,
+"lat": 51.56277,
+"notable": false
+},
+{
+"name": "Church of St Thomas and St Edmund of Canterbury, Erdington Abbey",
+"lon": -1.8362,
+"lat": 52.52842,
+"notable": true
+},
+{
+"name": "Church of the Holy Cross and St Lawrence (Waltham Abbey Church)",
+"lon": -0.00347,
+"lat": 51.6876,
+"notable": true
+},
+{
+"name": "Cleeve Abbey",
+"lon": -3.36361,
+"lat": 51.15739,
+"notable": true
+},
+{
+"name": "Clifton Cathedral",
+"lon": -2.61637,
+"lat": 51.45972,
+"notable": true
+},
+{
+"name": "Cockersand Abbey",
+"lon": -2.87492,
+"lat": 53.97672,
+"notable": true
+},
+{
+"name": "Coggeshall Abbey",
+"lon": 0.69334,
+"lat": 51.86777,
+"notable": false
+},
+{
+"name": "Coldingham Priory",
+"lon": -2.15516,
+"lat": 55.88655,
+"notable": false
+},
+{
+"name": "Cookhill Priory Chapel",
+"lon": -1.92289,
+"lat": 52.21378,
+"notable": false
+},
+{
+"name": "Cotham Priory",
+"lon": -0.25481,
+"lat": 53.58531,
+"notable": false
+},
+{
+"name": "Coventry Cathedral Church of St Michael",
+"lon": -1.5071,
+"lat": 52.40864,
+"notable": true
+},
+{
+"name": "Coverham Abbey",
+"lon": -1.83874,
+"lat": 54.27312,
+"notable": true
+},
+{
+"name": "Craswall Priory",
+"lon": -3.06185,
+"lat": 52.03286,
+"notable": true
+},
+{
+"name": "Crawford Priory Nurseries",
+"lon": -3.06208,
+"lat": 56.28066,
+"notable": true
+},
+{
+"name": "Creake Abbey",
+"lon": 0.75984,
+"lat": 52.92055,
+"notable": true
+},
+{
+"name": "Crossraguel Abbey",
+"lon": -4.72085,
+"lat": 55.33873,
+"notable": true
+},
+{
+"name": "Crowland Abbey (St Mary & St Bartholomew & St Guthlac)",
+"lon": -0.16503,
+"lat": 52.67643,
+"notable": true
+},
+{
+"name": "Croxden Abbey",
+"lon": -1.90351,
+"lat": 52.95491,
+"notable": true
+},
+{
+"name": "Croydon Minster",
+"lon": -0.10592,
+"lat": 51.37268,
+"notable": true
+},
+{
+"name": "Culross Abbey",
+"lon": -3.6253,
+"lat": 56.05836,
+"notable": true
+},
+{
+"name": "Culross Abbey Ruins",
+"lon": -3.62548,
+"lat": 56.05814,
+"notable": true
+},
+{
+"name": "Dale Abbey ruins",
+"lon": -1.35037,
+"lat": 52.94427,
+"notable": true
+},
+{
+"name": "Deer Abbey",
+"lon": -2.05409,
+"lat": 57.52329,
+"notable": true
+},
+{
+"name": "Denbigh Friary",
+"lon": -3.40914,
+"lat": 53.18784,
+"notable": true
+},
+{
+"name": "Derby Cathedral (All Saints)",
+"lon": -1.47736,
+"lat": 52.92484,
+"notable": true
+},
+{
+"name": "Dewsbury Minster Church of All Saints",
+"lon": -1.62922,
+"lat": 53.68963,
+"notable": true
+},
+{
+"name": "Dodnash Priory",
+"lon": 1.06357,
+"lat": 51.97973,
+"notable": true
+},
+{
+"name": "Doncaster Minster",
+"lon": -1.13539,
+"lat": 53.52559,
+"notable": true
+},
+{
+"name": "Dorchester Abbey",
+"lon": -1.16422,
+"lat": 51.64361,
+"notable": true
+},
+{
+"name": "Dornoch Cathedral",
+"lon": -4.03004,
+"lat": 57.88043,
+"notable": true
+},
+{
+"name": "Douai Abbey",
+"lon": -1.17155,
+"lat": 51.40983,
+"notable": true
+},
+{
+"name": "Downside Abbey of St Gregory the Great",
+"lon": -2.4956,
+"lat": 51.2557,
+"notable": true
+},
+{
+"name": "Drax Priory",
+"lon": -0.98575,
+"lat": 53.74705,
+"notable": false
+},
+{
+"name": "Dromore Cathedral of Christ the Redeemer",
+"lon": -6.15177,
+"lat": 54.41468,
+"notable": true
+},
+{
+"name": "Dryburgh Abbey",
+"lon": -2.64946,
+"lat": 55.57728,
+"notable": true
+},
+{
+"name": "Dudley Priory",
+"lon": -2.08489,
+"lat": 52.51545,
+"notable": true
+},
+{
+"name": "Dudley Priory Ruins",
+"lon": -2.08482,
+"lat": 52.51539,
+"notable": true
+},
+{
+"name": "Dunblane Cathedral",
+"lon": -3.96502,
+"lat": 56.18947,
+"notable": true
+},
+{
+"name": "Dundrennan Abbey",
+"lon": -3.94746,
+"lat": 54.80688,
+"notable": true
+},
+{
+"name": "Dunfermline Abbey",
+"lon": -3.46356,
+"lat": 56.06991,
+"notable": true
+},
+{
+"name": "Dunfermline Palace & Abbey (ruins)",
+"lon": -3.46431,
+"lat": 56.06949,
+"notable": true
+},
+{
+"name": "Dunkeld Cathedral",
+"lon": -3.59001,
+"lat": 56.56512,
+"notable": true
+},
+{
+"name": "Dunstaffnage Abbey",
+"lon": -5.44065,
+"lat": 56.45411,
+"notable": true
+},
+{
+"name": "Durham Cathedral",
+"lon": -1.57646,
+"lat": 54.77326,
+"notable": true
+},
+{
+"name": "Ealing Abbey",
+"lon": -0.30897,
+"lat": 51.51983,
+"notable": true
+},
+{
+"name": "Edgware Abbey",
+"lon": -0.26855,
+"lat": 51.62089,
+"notable": true
+},
+{
+"name": "Egglestone Abbey",
+"lon": -1.90516,
+"lat": 54.53125,
+"notable": true
+},
+{
+"name": "Elgin Cathedral",
+"lon": -3.30529,
+"lat": 57.65057,
+"notable": true
+},
+{
+"name": "Elmore Abbey",
+"lon": -1.34785,
+"lat": 51.40752,
+"notable": false
+},
+{
+"name": "Ely Cathedral",
+"lon": 0.26357,
+"lat": 52.39866,
+"notable": true
+},
+{
+"name": "Embsay & Bolton Abbey Steam Railway",
+"lon": -1.99032,
+"lat": 53.97571,
+"notable": false
+},
+{
+"name": "Entrance to The Abbey Cellars",
+"lon": -2.43547,
+"lat": 55.59845,
+"notable": false
+},
+{
+"name": "Errol Church (Cathedral of the Carse)",
+"lon": -3.21208,
+"lat": 56.39297,
+"notable": true
+},
+{
+"name": "Exeter Cathedral",
+"lon": -3.52976,
+"lat": 50.72251,
+"notable": true
+},
+{
+"name": "Fearne Abbey",
+"lon": -3.95616,
+"lat": 57.77013,
+"notable": false
+},
+{
+"name": "Fonthill Abbey",
+"lon": -2.11282,
+"lat": 51.07617,
+"notable": true
+},
+{
+"name": "Fors Abbey",
+"lon": -2.10013,
+"lat": 54.31304,
+"notable": true
+},
+{
+"name": "Fortrose Cathedral",
+"lon": -4.13052,
+"lat": 57.58079,
+"notable": true
+},
+{
+"name": "Fotheringhay Priory",
+"lon": -0.43973,
+"lat": 52.5254,
+"notable": true
+},
+{
+"name": "Fountains Abbey",
+"lon": -1.58112,
+"lat": 54.10958,
+"notable": true
+},
+{
+"name": "Fountains Abbey and Studley Royal",
+"lon": -1.57487,
+"lat": 54.11769,
+"notable": true
+},
+{
+"name": "Franciscan Friary",
+"lon": -1.83018,
+"lat": 52.68193,
+"notable": true
+},
+{
+"name": "Friary (site of)",
+"lon": -1.30848,
+"lat": 51.06136,
+"notable": false
+},
+{
+"name": "Friary Court",
+"lon": -0.13725,
+"lat": 51.50453,
+"notable": true
+},
+{
+"name": "Friary United Reformed Church",
+"lon": -1.13345,
+"lat": 52.93425,
+"notable": true
+},
+{
+"name": "Furness Abbey",
+"lon": -3.19831,
+"lat": 54.13559,
+"notable": true
+},
+{
+"name": "Gatehouse of Abbey of St Mary Stratford Langthorne",
+"lon": 0.00386,
+"lat": 51.53286,
+"notable": true
+},
+{
+"name": "Gatehouse of Castle Acre Priory",
+"lon": 0.68283,
+"lat": 52.70182,
+"notable": true
+},
+{
+"name": "Gisborough Priory",
+"lon": -1.04837,
+"lat": 54.53574,
+"notable": true
+},
+{
+"name": "Glasgow Cathedral",
+"lon": -4.23459,
+"lat": 55.86301,
+"notable": true
+},
+{
+"name": "Glastonbury Abbey",
+"lon": -2.71527,
+"lat": 51.14629,
+"notable": true
+},
+{
+"name": "Glenluce Abbey",
+"lon": -4.83151,
+"lat": 54.88976,
+"notable": true
+},
+{
+"name": "Gloucester Cathedral",
+"lon": -2.24656,
+"lat": 51.86735,
+"notable": true
+},
+{
+"name": "Godstow Abbey",
+"lon": -1.30017,
+"lat": 51.77834,
+"notable": true
+},
+{
+"name": "Goxhill Priory",
+"lon": -0.32141,
+"lat": 53.66804,
+"notable": true
+},
+{
+"name": "Grace Dieu Priory",
+"lon": -1.35669,
+"lat": 52.761,
+"notable": true
+},
+{
+"name": "Great Limber Priory",
+"lon": -0.28499,
+"lat": 53.5618,
+"notable": true
+},
+{
+"name": "Great Malvern Priory",
+"lon": -2.32857,
+"lat": 52.11053,
+"notable": true
+},
+{
+"name": "Great Yarmouth Minster",
+"lon": 1.72732,
+"lat": 52.61137,
+"notable": true
+},
+{
+"name": "Greek Orthodox Cathedral of St Sophia",
+"lon": -0.19144,
+"lat": 51.51246,
+"notable": true
+},
+{
+"name": "Grey Abbey",
+"lon": -5.55507,
+"lat": 54.53672,
+"notable": true
+},
+{
+"name": "Greyfriars Priory",
+"lon": -2.24625,
+"lat": 51.86359,
+"notable": true
+},
+{
+"name": "Hagnaby Abbey",
+"lon": 0.22592,
+"lat": 53.3021,
+"notable": true
+},
+{
+"name": "Hailes Abbey",
+"lon": -1.92805,
+"lat": 51.96862,
+"notable": true
+},
+{
+"name": "Halifax Minster",
+"lon": -1.8538,
+"lat": 53.72322,
+"notable": true
+},
+{
+"name": "Handale Abbey",
+"lon": -0.88101,
+"lat": 54.53114,
+"notable": true
+},
+{
+"name": "Hartland Abbey",
+"lon": -4.50877,
+"lat": 50.99659,
+"notable": true
+},
+{
+"name": "Haughmond Abbey",
+"lon": -2.68007,
+"lat": 52.7318,
+"notable": true
+},
+{
+"name": "Haverholme Priory",
+"lon": -0.34952,
+"lat": 53.03037,
+"notable": true
+},
+{
+"name": "Healaugh Priory",
+"lon": -1.26204,
+"lat": 53.91105,
+"notable": true
+},
+{
+"name": "Hereford Cathedral",
+"lon": -2.71603,
+"lat": 52.05432,
+"notable": true
+},
+{
+"name": "Hexham Abbey",
+"lon": -2.10254,
+"lat": 54.9715,
+"notable": true
+},
+{
+"name": "Hinton Priory",
+"lon": -2.32005,
+"lat": 51.33124,
+"notable": true
+},
+{
+"name": "Holy Cross Priory Church",
+"lon": -1.13033,
+"lat": 52.63061,
+"notable": true
+},
+{
+"name": "Holy Trinity Minster (Great Paxton Parish Church)",
+"lon": -0.22848,
+"lat": 52.26242,
+"notable": true
+},
+{
+"name": "Holy Trinity Priory",
+"lon": -0.07787,
+"lat": 51.51343,
+"notable": true
+},
+{
+"name": "Holyrood Abbey",
+"lon": -3.17163,
+"lat": 55.95314,
+"notable": true
+},
+{
+"name": "Howden Minster",
+"lon": -0.86749,
+"lat": 53.74528,
+"notable": true
+},
+{
+"name": "Hull Minster",
+"lon": -0.33431,
+"lat": 53.74178,
+"notable": true
+},
+{
+"name": "Hulne Priory",
+"lon": -1.74294,
+"lat": 55.435,
+"notable": true
+},
+{
+"name": "Hulton Abbey",
+"lon": -2.14257,
+"lat": 53.03949,
+"notable": true
+},
+{
+"name": "Hyde Abbey Gate",
+"lon": -1.3141,
+"lat": 51.06854,
+"notable": true
+},
+{
+"name": "Inch Abbey",
+"lon": -5.73018,
+"lat": 54.33623,
+"notable": true
+},
+{
+"name": "Inchcolm Abbey",
+"lon": -3.30154,
+"lat": 56.02999,
+"notable": true
+},
+{
+"name": "Inchmahome Priory",
+"lon": -4.2981,
+"lat": 56.17619,
+"notable": true
+},
+{
+"name": "Innishmacsaint Abbey (ruins)",
+"lon": -7.74548,
+"lat": 54.43551,
+"notable": true
+},
+{
+"name": "Iona Abbey",
+"lon": -6.39151,
+"lat": 56.33503,
+"notable": true
+},
+{
+"name": "Isle of May Priory",
+"lon": -2.55144,
+"lat": 56.18263,
+"notable": true
+},
+{
+"name": "Jedburgh Abbey",
+"lon": -2.55482,
+"lat": 55.47663,
+"notable": true
+},
+{
+"name": "Jervaulx Abbey",
+"lon": -1.73782,
+"lat": 54.26711,
+"notable": true
+},
+{
+"name": "Kelso Abbey",
+"lon": -2.43219,
+"lat": 55.59708,
+"notable": true
+},
+{
+"name": "Kelso Abbey (1128)",
+"lon": -2.43239,
+"lat": 55.5971,
+"notable": true
+},
+{
+"name": "Kersey Priory",
+"lon": 0.91465,
+"lat": 52.06224,
+"notable": true
+},
+{
+"name": "Keynsham Abbey",
+"lon": -2.49618,
+"lat": 51.41727,
+"notable": true
+},
+{
+"name": "Kiltierney Abbey (Ruins)",
+"lon": -7.65796,
+"lat": 54.51162,
+"notable": true
+},
+{
+"name": "King's Lynn Minster",
+"lon": 0.39561,
+"lat": 52.75167,
+"notable": true
+},
+{
+"name": "Kinloss Abbey",
+"lon": -3.5664,
+"lat": 57.63387,
+"notable": true
+},
+{
+"name": "Kirkham Priory",
+"lon": -0.87687,
+"lat": 54.08279,
+"notable": true
+},
+{
+"name": "Kirkstall Abbey (Ruins)",
+"lon": -1.60668,
+"lat": 53.82062,
+"notable": true
+},
+{
+"name": "Kirkstall Abbey Guest House Ruins",
+"lon": -1.60805,
+"lat": 53.82133,
+"notable": true
+},
+{
+"name": "Kirkstead Abbey",
+"lon": -0.2236,
+"lat": 53.1387,
+"notable": true
+},
+{
+"name": "Kyme Priory",
+"lon": -0.25912,
+"lat": 53.03442,
+"notable": true
+},
+{
+"name": "Lancaster Cathedral",
+"lon": -2.79387,
+"lat": 54.04699,
+"notable": true
+},
+{
+"name": "Lancaster Priory",
+"lon": -2.80546,
+"lat": 54.05071,
+"notable": true
+},
+{
+"name": "Lanercost Priory",
+"lon": -2.69525,
+"lat": 54.96597,
+"notable": true
+},
+{
+"name": "Last Remaining Corner of Friary",
+"lon": -1.72435,
+"lat": 55.60676,
+"notable": false
+},
+{
+"name": "Latimer Minster",
+"lon": -0.59559,
+"lat": 51.60031,
+"notable": true
+},
+{
+"name": "Launceston Priory",
+"lon": -4.36586,
+"lat": 50.64079,
+"notable": false
+},
+{
+"name": "Lavendon Abbey (site of)",
+"lon": -0.6814,
+"lat": 52.17274,
+"notable": true
+},
+{
+"name": "Lee Abbey Christian Conference, Retreat and Holiday Centre",
+"lon": -3.86565,
+"lat": 51.22776,
+"notable": true
+},
+{
+"name": "Leeds Cathedral",
+"lon": -1.54683,
+"lat": 53.80061,
+"notable": true
+},
+{
+"name": "Leez Priory",
+"lon": 0.46728,
+"lat": 51.8396,
+"notable": false
+},
+{
+"name": "Legbourne Priory",
+"lon": 0.04123,
+"lat": 53.33737,
+"notable": true
+},
+{
+"name": "Leicester Abbey",
+"lon": -1.13699,
+"lat": 52.64869,
+"notable": true
+},
+{
+"name": "Leiston Abbey",
+"lon": 1.57798,
+"lat": 52.22119,
+"notable": true
+},
+{
+"name": "Leiston old abbey",
+"lon": 1.62082,
+"lat": 52.23644,
+"notable": true
+},
+{
+"name": "Leominster Priory - Scheduled Monument",
+"lon": -2.73523,
+"lat": 52.22992,
+"notable": true
+},
+{
+"name": "Lichfield Cathedral",
+"lon": -1.83042,
+"lat": 52.68548,
+"notable": true
+},
+{
+"name": "Lilleshall Abbey",
+"lon": -2.3901,
+"lat": 52.72479,
+"notable": true
+},
+{
+"name": "Lincoln Cathedral",
+"lon": -0.53625,
+"lat": 53.23429,
+"notable": true
+},
+{
+"name": "Lindisfarne Priory",
+"lon": -1.8009,
+"lat": 55.66913,
+"notable": true
+},
+{
+"name": "Lindores Abbey (ruins)",
+"lon": -3.22595,
+"lat": 56.35234,
+"notable": true
+},
+{
+"name": "Lindores Abbey Distillery",
+"lon": -3.22559,
+"lat": 56.35178,
+"notable": false
+},
+{
+"name": "Lisburn Cathedral",
+"lon": -6.04184,
+"lat": 54.51132,
+"notable": true
+},
+{
+"name": "Little Malvern Priory Church",
+"lon": -2.3365,
+"lat": 52.06129,
+"notable": true
+},
+{
+"name": "Liverpool Cathedral",
+"lon": -2.97326,
+"lat": 53.39738,
+"notable": true
+},
+{
+"name": "Llandaff Cathedral",
+"lon": -3.21779,
+"lat": 51.49575,
+"notable": true
+},
+{
+"name": "Louth Abbey",
+"lon": 0.0341,
+"lat": 53.37694,
+"notable": true
+},
+{
+"name": "Luffness friary",
+"lon": -2.84948,
+"lat": 56.01125,
+"notable": true
+},
+{
+"name": "Lytchett Minster",
+"lon": -2.05743,
+"lat": 50.73742,
+"notable": true
+},
+{
+"name": "Malmesbury Abbey",
+"lon": -2.09847,
+"lat": 51.58467,
+"notable": true
+},
+{
+"name": "Manchester Cathedral",
+"lon": -2.2444,
+"lat": 53.48523,
+"notable": true
+},
+{
+"name": "Margam Abbey",
+"lon": -3.73009,
+"lat": 51.5626,
+"notable": true
+},
+{
+"name": "Markby Priory",
+"lon": 0.23023,
+"lat": 53.28526,
+"notable": true
+},
+{
+"name": "Marlmesbury Abbey and Grounds",
+"lon": -2.0984,
+"lat": 51.5846,
+"notable": true
+},
+{
+"name": "Marton Abbey",
+"lon": -1.1085,
+"lat": 54.11742,
+"notable": false
+},
+{
+"name": "Mattersey Priory",
+"lon": -0.94395,
+"lat": 53.39821,
+"notable": true
+},
+{
+"name": "Meaux Abbey",
+"lon": -0.34224,
+"lat": 53.8394,
+"notable": true
+},
+{
+"name": "Melrose Abbey",
+"lon": -2.71783,
+"lat": 55.59943,
+"notable": true
+},
+{
+"name": "Merevale Abbey",
+"lon": -1.56999,
+"lat": 52.57708,
+"notable": true
+},
+{
+"name": "Merton Priory Chapter House",
+"lon": -0.18169,
+"lat": 51.41409,
+"notable": false
+},
+{
+"name": "Metropolitan Cathedral of Christ the King",
+"lon": -2.96859,
+"lat": 53.40472,
+"notable": true
+},
+{
+"name": "Minster Abbey",
+"lon": 0.81205,
+"lat": 51.42212,
+"notable": true
+},
+{
+"name": "Minster Abbey",
+"lon": 1.31778,
+"lat": 51.3313,
+"notable": true
+},
+{
+"name": "Minster Christian Centre",
+"lon": -3.15221,
+"lat": 51.49341,
+"notable": false
+},
+{
+"name": "Minster Church",
+"lon": -4.67576,
+"lat": 50.68317,
+"notable": true
+},
+{
+"name": "Minster Church of Saint Peter-Ad-Vincula",
+"lon": -2.18123,
+"lat": 53.0041,
+"notable": true
+},
+{
+"name": "Minster Church of St Andrew",
+"lon": -4.13987,
+"lat": 50.36975,
+"notable": true
+},
+{
+"name": "Minster Church of St Mary the Virgin",
+"lon": -0.97365,
+"lat": 51.4545,
+"notable": true
+},
+{
+"name": "Minster Church of St-Peter-at-Leeds",
+"lon": -1.53608,
+"lat": 53.79514,
+"notable": true
+},
+{
+"name": "Minster Roman Catholic Church",
+"lon": 0.80254,
+"lat": 51.42005,
+"notable": false
+},
+{
+"name": "Minster of St. Cuthburga",
+"lon": -1.98814,
+"lat": 50.79897,
+"notable": true
+},
+{
+"name": "Minting Priory",
+"lon": -0.22561,
+"lat": 53.24556,
+"notable": true
+},
+{
+"name": "Monk Bretton Priory",
+"lon": -1.43791,
+"lat": 53.55398,
+"notable": true
+},
+{
+"name": "Monkwearmouth Anglo-Saxon monastery and medieval priory",
+"lon": -1.375,
+"lat": 54.91298,
+"notable": true
+},
+{
+"name": "Monkwearmouth–Jarrow Abbey",
+"lon": -1.47216,
+"lat": 54.98006,
+"notable": true
+},
+{
+"name": "Motherwell Cathedral",
+"lon": -3.98712,
+"lat": 55.79135,
+"notable": true
+},
+{
+"name": "Mottisfont Abbey",
+"lon": -1.53488,
+"lat": 51.04113,
+"notable": true
+},
+{
+"name": "Mount Grace Priory",
+"lon": -1.30968,
+"lat": 54.38019,
+"notable": true
+},
+{
+"name": "Mount Zion Cathedral",
+"lon": -0.12361,
+"lat": 51.57759,
+"notable": false
+},
+{
+"name": "Movilla Abbey",
+"lon": -5.6745,
+"lat": 54.59591,
+"notable": true
+},
+{
+"name": "Movilla Abbey Church",
+"lon": -5.67152,
+"lat": 54.59489,
+"notable": false
+},
+{
+"name": "Muchelney Abbey",
+"lon": -2.81567,
+"lat": 51.02029,
+"notable": true
+},
+{
+"name": "Neath Abbey",
+"lon": -3.82624,
+"lat": 51.66086,
+"notable": true
+},
+{
+"name": "Netley Abbey",
+"lon": -1.35714,
+"lat": 50.87848,
+"notable": true
+},
+{
+"name": "Newark Priory",
+"lon": -0.50687,
+"lat": 51.3089,
+"notable": true
+},
+{
+"name": "Newbattle Abbey",
+"lon": -3.06716,
+"lat": 55.88274,
+"notable": true
+},
+{
+"name": "Newburgh Priory",
+"lon": -1.16986,
+"lat": 54.18119,
+"notable": true
+},
+{
+"name": "Newenham Abbey",
+"lon": -3.01135,
+"lat": 50.77153,
+"notable": false
+},
+{
+"name": "Newport Cathedral",
+"lon": -2.99864,
+"lat": 51.58309,
+"notable": true
+},
+{
+"name": "Newry Cathedral",
+"lon": -6.33768,
+"lat": 54.17454,
+"notable": true
+},
+{
+"name": "Newsham Abbey",
+"lon": -0.29764,
+"lat": 53.6042,
+"notable": true
+},
+{
+"name": "Newstead Abbey",
+"lon": -1.19346,
+"lat": 53.07875,
+"notable": true
+},
+{
+"name": "Nocton Park Priory",
+"lon": -0.38926,
+"lat": 53.16915,
+"notable": true
+},
+{
+"name": "North Ormsby Abbey",
+"lon": -0.07237,
+"lat": 53.41838,
+"notable": true
+},
+{
+"name": "Northampton Cathedral",
+"lon": -0.89851,
+"lat": 52.24817,
+"notable": true
+},
+{
+"name": "Norton Priory",
+"lon": -2.67936,
+"lat": 53.34236,
+"notable": true
+},
+{
+"name": "Norwich Cathedral",
+"lon": 1.30104,
+"lat": 52.63198,
+"notable": true
+},
+{
+"name": "Old Minster (site of)",
+"lon": -1.31382,
+"lat": 51.0611,
+"notable": false
+},
+{
+"name": "Old Priory",
+"lon": -4.18842,
+"lat": 50.9549,
+"notable": true
+},
+{
+"name": "Old Sarum Cathedral",
+"lon": -1.8064,
+"lat": 51.09422,
+"notable": true
+},
+{
+"name": "Old and Abbey Parish Church",
+"lon": -2.58152,
+"lat": 56.5615,
+"notable": true
+},
+{
+"name": "Orford Priory",
+"lon": -0.203,
+"lat": 53.43208,
+"notable": true
+},
+{
+"name": "Oronsay Priory",
+"lon": -6.25453,
+"lat": 56.01982,
+"notable": true
+},
+{
+"name": "Orpington Priory",
+"lon": 0.10474,
+"lat": 51.37887,
+"notable": true
+},
+{
+"name": "Orthodox Cathedral of the Dormition of the Theotokos and St. Andreas",
+"lon": -1.91422,
+"lat": 52.48282,
+"notable": true
+},
+{
+"name": "Our Lady and Saint Philip Howard (Arundel Cathedral)",
+"lon": -0.55904,
+"lat": 50.8552,
+"notable": true
+},
+{
+"name": "Our Lady of Bethlehem Abbey",
+"lon": -6.47538,
+"lat": 54.87061,
+"notable": true
+},
+{
+"name": "Paisley Abbey",
+"lon": -4.42022,
+"lat": 55.8449,
+"notable": true
+},
+{
+"name": "Pamber Priory Church",
+"lon": -1.12741,
+"lat": 51.31919,
+"notable": true
+},
+{
+"name": "Pershore Abbey",
+"lon": -2.07755,
+"lat": 52.11045,
+"notable": true
+},
+{
+"name": "Peterborough Cathedral",
+"lon": -0.23949,
+"lat": 52.57253,
+"notable": true
+},
+{
+"name": "Pinley Priory",
+"lon": -1.68857,
+"lat": 52.28949,
+"notable": true
+},
+{
+"name": "Pleasington Priory",
+"lon": -2.54286,
+"lat": 53.73499,
+"notable": true
+},
+{
+"name": "Pluscarden Abbey",
+"lon": -3.43734,
+"lat": 57.60033,
+"notable": true
+},
+{
+"name": "Polesworth Abbey Church of St Editha",
+"lon": -1.6125,
+"lat": 52.619,
+"notable": true
+},
+{
+"name": "Prinknash Abbey",
+"lon": -2.1766,
+"lat": 51.82254,
+"notable": true
+},
+{
+"name": "Priory",
+"lon": -0.07265,
+"lat": 52.3223,
+"notable": true
+},
+{
+"name": "Priory",
+"lon": -0.4601,
+"lat": 51.71298,
+"notable": false
+},
+{
+"name": "Priory (remains of)",
+"lon": 0.33364,
+"lat": 50.93799,
+"notable": true
+},
+{
+"name": "Priory Church (Killadeas Parish CoI)",
+"lon": -7.68315,
+"lat": 54.43368,
+"notable": false
+},
+{
+"name": "Priory Church Of St Andrew",
+"lon": -3.1391,
+"lat": 51.17954,
+"notable": true
+},
+{
+"name": "Priory Church of Saint Mary",
+"lon": -0.27907,
+"lat": 53.8063,
+"notable": true
+},
+{
+"name": "Priory Church of Saint Peter",
+"lon": -0.5175,
+"lat": 51.88605,
+"notable": true
+},
+{
+"name": "Priory Church of St Anthony",
+"lon": -1.17871,
+"lat": 52.94376,
+"notable": true
+},
+{
+"name": "Priory Church of St Laurence",
+"lon": 0.31776,
+"lat": 51.69038,
+"notable": true
+},
+{
+"name": "Priory Church of St Mary & St Bega",
+"lon": -3.59346,
+"lat": 54.49389,
+"notable": true
+},
+{
+"name": "Priory Church of St. Andrew the Apostle",
+"lon": -1.31797,
+"lat": 50.85816,
+"notable": true
+},
+{
+"name": "Priory Church of the Order of St John",
+"lon": -0.10305,
+"lat": 51.52307,
+"notable": false
+},
+{
+"name": "Priory Island, Crannog",
+"lon": -4.0101,
+"lat": 56.58396,
+"notable": false
+},
+{
+"name": "Priory Maze And Gardens",
+"lon": 1.22263,
+"lat": 52.93822,
+"notable": false
+},
+{
+"name": "Priory Ruins",
+"lon": -2.08517,
+"lat": 52.51564,
+"notable": true
+},
+{
+"name": "Priory Undercroft",
+"lon": -1.50799,
+"lat": 52.40919,
+"notable": true
+},
+{
+"name": "Priory church of Saint Mary",
+"lon": 0.73471,
+"lat": 52.95098,
+"notable": true
+},
+{
+"name": "Priory of Saint Columba",
+"lon": -5.69212,
+"lat": 54.59101,
+"notable": true
+},
+{
+"name": "Priory of St Mary and St Cuthbert",
+"lon": -1.88866,
+"lat": 53.98382,
+"notable": true
+},
+{
+"name": "Priory of St Mary in the Meadow",
+"lon": 1.22415,
+"lat": 52.93881,
+"notable": true
+},
+{
+"name": "Quarr Abbey",
+"lon": -1.20484,
+"lat": 50.73152,
+"notable": true
+},
+{
+"name": "Quarr Abbey Ruins (No Public Access)",
+"lon": -1.19925,
+"lat": 50.73123,
+"notable": true
+},
+{
+"name": "Ramsey Abbey Gatehouse (National Trust)",
+"lon": -0.1028,
+"lat": 52.44839,
+"notable": true
+},
+{
+"name": "Ranton Abbey",
+"lon": -2.2415,
+"lat": 52.81579,
+"notable": true
+},
+{
+"name": "Ravenstone Priory (Site of)",
+"lon": -0.75907,
+"lat": 52.15046,
+"notable": true
+},
+{
+"name": "Reigate Priory Museum",
+"lon": -0.20662,
+"lat": 51.23532,
+"notable": true
+},
+{
+"name": "Restenneth Priory",
+"lon": -2.84607,
+"lat": 56.65328,
+"notable": true
+},
+{
+"name": "Revesby Abbey",
+"lon": -0.06093,
+"lat": 53.12826,
+"notable": true
+},
+{
+"name": "Rewley Abbey",
+"lon": -1.26836,
+"lat": 51.75431,
+"notable": true
+},
+{
+"name": "Rievaulx Abbey",
+"lon": -1.11728,
+"lat": 54.25733,
+"notable": true
+},
+{
+"name": "Ripon Cathedral",
+"lon": -1.52025,
+"lat": 54.13505,
+"notable": true
+},
+{
+"name": "Robertsbridge Abbey",
+"lon": 0.49832,
+"lat": 50.98732,
+"notable": true
+},
+{
+"name": "Rocester Abbey",
+"lon": -1.83481,
+"lat": 52.95116,
+"notable": true
+},
+{
+"name": "Roche Abbey",
+"lon": -1.18351,
+"lat": 53.40218,
+"notable": true
+},
+{
+"name": "Rochester Cathedral",
+"lon": 0.50327,
+"lat": 51.38895,
+"notable": true
+},
+{
+"name": "Romsey Abbey",
+"lon": -1.50139,
+"lat": 50.98966,
+"notable": true
+},
+{
+"name": "Rotherham Minster",
+"lon": -1.35668,
+"lat": 53.43097,
+"notable": true
+},
+{
+"name": "Rufford Abbey",
+"lon": -1.03567,
+"lat": 53.17642,
+"notable": true
+},
+{
+"name": "Ruined Priory",
+"lon": -2.03613,
+"lat": 52.45281,
+"notable": false
+},
+{
+"name": "Ruins of Barking Abbey",
+"lon": 0.07489,
+"lat": 51.53602,
+"notable": true
+},
+{
+"name": "Ruins of Lesmahagow Priory",
+"lon": -3.88525,
+"lat": 55.63764,
+"notable": false
+},
+{
+"name": "Saddell Abbey",
+"lon": -5.5117,
+"lat": 55.5319,
+"notable": true
+},
+{
+"name": "Saint Anne's Cathedral",
+"lon": -5.92864,
+"lat": 54.60277,
+"notable": true
+},
+{
+"name": "Saint Augustine's Abbey",
+"lon": 1.08861,
+"lat": 51.27813,
+"notable": true
+},
+{
+"name": "Saint Benet's Abbey Drainage Mill",
+"lon": 1.5205,
+"lat": 52.68743,
+"notable": true
+},
+{
+"name": "Saint Columb's Cathedral",
+"lon": -7.323,
+"lat": 54.99389,
+"notable": true
+},
+{
+"name": "Saint Davids Cathedral",
+"lon": -5.26836,
+"lat": 51.88202,
+"notable": true
+},
+{
+"name": "Saint Dominics Priory",
+"lon": -0.15726,
+"lat": 51.55078,
+"notable": true
+},
+{
+"name": "Saint Edmundsbury Cathedral",
+"lon": 0.71704,
+"lat": 52.24392,
+"notable": true
+},
+{
+"name": "Saint Eugene's Cathedral",
+"lon": -7.32824,
+"lat": 55.00007,
+"notable": true
+},
+{
+"name": "Saint George's Cathedral",
+"lon": -0.10793,
+"lat": 51.49782,
+"notable": true
+},
+{
+"name": "Saint Gregory's Minster",
+"lon": -0.96234,
+"lat": 54.26318,
+"notable": true
+},
+{
+"name": "Saint James (Grimsby Minster)",
+"lon": -0.08949,
+"lat": 53.56383,
+"notable": true
+},
+{
+"name": "Saint Magnus Cathedral",
+"lon": -2.95961,
+"lat": 58.98144,
+"notable": true
+},
+{
+"name": "Saint Mary's Augustinian Priory",
+"lon": -7.65719,
+"lat": 54.37009,
+"notable": true
+},
+{
+"name": "Saint Mary's Cathedral",
+"lon": -1.21353,
+"lat": 54.52281,
+"notable": true
+},
+{
+"name": "Saint Mary's Priory",
+"lon": -0.77892,
+"lat": 54.14257,
+"notable": true
+},
+{
+"name": "Saint Mary's Priory Church",
+"lon": -1.68784,
+"lat": 52.85906,
+"notable": true
+},
+{
+"name": "Saint Michael’s Abbey",
+"lon": -0.74963,
+"lat": 51.29659,
+"notable": true
+},
+{
+"name": "Saint Nicholas Cole Abbey",
+"lon": -0.09685,
+"lat": 51.51211,
+"notable": true
+},
+{
+"name": "Saint Oswald's Minster & Medieval Priory",
+"lon": -2.2477,
+"lat": 51.86939,
+"notable": true
+},
+{
+"name": "Saint Patrick's Cathedral (Church of Ireland)",
+"lon": -6.65622,
+"lat": 54.3478,
+"notable": true
+},
+{
+"name": "Saint Patrick's Cathedral (Roman Catholic)",
+"lon": -6.65894,
+"lat": 54.35264,
+"notable": true
+},
+{
+"name": "Salisbury Cathedral",
+"lon": -1.79729,
+"lat": 51.06496,
+"notable": true
+},
+{
+"name": "Sandwell Priory",
+"lon": -1.96482,
+"lat": 52.51989,
+"notable": true
+},
+{
+"name": "Saul Abbey",
+"lon": -5.67929,
+"lat": 54.34346,
+"notable": false
+},
+{
+"name": "Sawley Abbey",
+"lon": -2.34162,
+"lat": 53.91334,
+"notable": true
+},
+{
+"name": "Sawtry Abbey Site",
+"lon": -0.24112,
+"lat": 52.42757,
+"notable": true
+},
+{
+"name": "Sclerder Abbey",
+"lon": -4.50116,
+"lat": 50.35046,
+"notable": false
+},
+{
+"name": "Selby Abbey",
+"lon": -1.06708,
+"lat": 53.78407,
+"notable": true
+},
+{
+"name": "Sempringham Priory",
+"lon": -0.35822,
+"lat": 52.88254,
+"notable": true
+},
+{
+"name": "Shaftesbury Abbey",
+"lon": -2.19855,
+"lat": 51.00527,
+"notable": true
+},
+{
+"name": "Shap Abbey",
+"lon": -2.69985,
+"lat": 54.53027,
+"notable": true
+},
+{
+"name": "Sheen Priory",
+"lon": -0.31593,
+"lat": 51.46773,
+"notable": true
+},
+{
+"name": "Sheffield Cathedral",
+"lon": -1.46938,
+"lat": 53.38321,
+"notable": true
+},
+{
+"name": "Sherborne Abbey",
+"lon": -2.51659,
+"lat": 50.94667,
+"notable": true
+},
+{
+"name": "Shrewsbury Abbey",
+"lon": -2.7438,
+"lat": 52.70761,
+"notable": true
+},
+{
+"name": "Shrewsbury Cathedral",
+"lon": -2.75403,
+"lat": 52.70534,
+"notable": true
+},
+{
+"name": "Site of Augustinian Priory",
+"lon": -0.67726,
+"lat": 53.94543,
+"notable": true
+},
+{
+"name": "Site of Belford Priory",
+"lon": -2.29279,
+"lat": 55.47748,
+"notable": false
+},
+{
+"name": "Site of Carmelite Friary",
+"lon": -3.59865,
+"lat": 55.97157,
+"notable": false
+},
+{
+"name": "Site of Dore Abbey",
+"lon": -2.89341,
+"lat": 51.96899,
+"notable": true
+},
+{
+"name": "Site of Kelso Abbey Infirmary",
+"lon": -2.43068,
+"lat": 55.5965,
+"notable": false
+},
+{
+"name": "Site of Saint Michael's Friary",
+"lon": -2.43932,
+"lat": 55.59638,
+"notable": false
+},
+{
+"name": "Skendleby Priory",
+"lon": 0.1389,
+"lat": 53.19863,
+"notable": false
+},
+{
+"name": "Snelshall Priory",
+"lon": -0.81244,
+"lat": 52.00275,
+"notable": true
+},
+{
+"name": "South Elmham Minster",
+"lon": 1.38985,
+"lat": 52.39339,
+"notable": true
+},
+{
+"name": "Southwark Cathedral",
+"lon": -0.08958,
+"lat": 51.50613,
+"notable": true
+},
+{
+"name": "Southwell Minster",
+"lon": -0.95408,
+"lat": 53.07684,
+"notable": true
+},
+{
+"name": "Southwick Priory (rems)",
+"lon": -1.10779,
+"lat": 50.87218,
+"notable": false
+},
+{
+"name": "St Albans Abbey",
+"lon": -0.34465,
+"lat": 51.74953,
+"notable": false
+},
+{
+"name": "St Albans Cathedral",
+"lon": -0.34247,
+"lat": 51.75051,
+"notable": true
+},
+{
+"name": "St Andrew's Cathedral",
+"lon": -4.25292,
+"lat": 55.85551,
+"notable": true
+},
+{
+"name": "St Andrew's Cathedral",
+"lon": -4.22912,
+"lat": 57.47449,
+"notable": true
+},
+{
+"name": "St Andrew's RC Cathedral",
+"lon": -2.97464,
+"lat": 56.45745,
+"notable": true
+},
+{
+"name": "St Andrews Cathedral (Ruins)",
+"lon": -2.78783,
+"lat": 56.34007,
+"notable": true
+},
+{
+"name": "St Asaph Cathedral",
+"lon": -3.44197,
+"lat": 53.25708,
+"notable": true
+},
+{
+"name": "St Augustine's Abbey Benedictine Monastery",
+"lon": -0.52543,
+"lat": 51.20883,
+"notable": true
+},
+{
+"name": "St Augustine's Abbey Church",
+"lon": 1.40988,
+"lat": 51.32846,
+"notable": true
+},
+{
+"name": "St Austin's Priory Catholic Church",
+"lon": -3.94922,
+"lat": 50.38959,
+"notable": false
+},
+{
+"name": "St Barnabas Lenton Abbey",
+"lon": -1.21275,
+"lat": 52.93891,
+"notable": true
+},
+{
+"name": "St Beghs Priory",
+"lon": -3.5843,
+"lat": 54.54277,
+"notable": false
+},
+{
+"name": "St Benet's Abbey",
+"lon": 1.5251,
+"lat": 52.68613,
+"notable": true
+},
+{
+"name": "St Benet's Minster",
+"lon": 1.55902,
+"lat": 52.45409,
+"notable": false
+},
+{
+"name": "St Boniface's Cathedral",
+"lon": -4.15155,
+"lat": 50.3737,
+"notable": false
+},
+{
+"name": "St Botolph's Priory Grounds",
+"lon": 0.90454,
+"lat": 51.88736,
+"notable": false
+},
+{
+"name": "St Cadix's Priory",
+"lon": -4.62431,
+"lat": 50.36159,
+"notable": false
+},
+{
+"name": "St Clare's Abbey",
+"lon": -1.58021,
+"lat": 54.52527,
+"notable": true
+},
+{
+"name": "St Columba's Cathedral",
+"lon": -5.47886,
+"lat": 56.41942,
+"notable": true
+},
+{
+"name": "St Dunstan's Abbey",
+"lon": -4.15377,
+"lat": 50.37472,
+"notable": true
+},
+{
+"name": "St George and St Athanasius Cathedral",
+"lon": -1.64133,
+"lat": 54.97738,
+"notable": false
+},
+{
+"name": "St Giles' Cathedral",
+"lon": -3.19087,
+"lat": 55.94948,
+"notable": true
+},
+{
+"name": "St Grimbald's Abbey (site of)",
+"lon": -1.31223,
+"lat": 51.06124,
+"notable": false
+},
+{
+"name": "St Hilda's Priory Chapel",
+"lon": -0.6418,
+"lat": 54.48321,
+"notable": true
+},
+{
+"name": "St James Without-the-Priory Gate",
+"lon": -1.11177,
+"lat": 50.87391,
+"notable": true
+},
+{
+"name": "St James' Priory",
+"lon": -2.59302,
+"lat": 51.45866,
+"notable": true
+},
+{
+"name": "St John's Cathedral",
+"lon": -5.47351,
+"lat": 56.4167,
+"notable": true
+},
+{
+"name": "St John's Minster",
+"lon": -2.69613,
+"lat": 53.75848,
+"notable": true
+},
+{
+"name": "St John's Priory",
+"lon": -1.30016,
+"lat": 53.69812,
+"notable": true
+},
+{
+"name": "St Katherine's Priory",
+"lon": -3.50185,
+"lat": 50.73424,
+"notable": true
+},
+{
+"name": "St Laurence Priory Church",
+"lon": -1.03077,
+"lat": 53.69203,
+"notable": true
+},
+{
+"name": "St Leonard's Priory (remains of)",
+"lon": -0.4656,
+"lat": 52.65413,
+"notable": true
+},
+{
+"name": "St Macartan's Cathedral",
+"lon": -7.17231,
+"lat": 54.41032,
+"notable": true
+},
+{
+"name": "St Margaret's Cathedral",
+"lon": -4.62616,
+"lat": 55.46465,
+"notable": false
+},
+{
+"name": "St Margarets Priory (Remains)",
+"lon": -0.52873,
+"lat": 51.79566,
+"notable": true
+},
+{
+"name": "St Mary & Archangel Michael Coptic Cathedral",
+"lon": -1.77532,
+"lat": 52.42102,
+"notable": false
+},
+{
+"name": "St Mary (Stow Minster)",
+"lon": -0.67726,
+"lat": 53.3276,
+"notable": true
+},
+{
+"name": "St Mary's Abbey",
+"lon": -2.03652,
+"lat": 52.44349,
+"notable": true
+},
+{
+"name": "St Mary's Abbey",
+"lon": -1.96675,
+"lat": 51.71823,
+"notable": false
+},
+{
+"name": "St Mary's Abbey (remains of)",
+"lon": -4.78771,
+"lat": 52.76434,
+"notable": true
+},
+{
+"name": "St Mary's Abbey Church",
+"lon": -1.47691,
+"lat": 52.52558,
+"notable": true
+},
+{
+"name": "St Mary's Cathedral",
+"lon": -2.99858,
+"lat": 53.04729,
+"notable": true
+},
+{
+"name": "St Mary's Episcopal Cathedral",
+"lon": -4.27509,
+"lat": 55.87352,
+"notable": true
+},
+{
+"name": "St Mary's Episcopal Cathedral",
+"lon": -3.21628,
+"lat": 55.94861,
+"notable": true
+},
+{
+"name": "St Mary's Metropolitan Cathedral (RC)",
+"lon": -3.18788,
+"lat": 55.95602,
+"notable": true
+},
+{
+"name": "St Mary's Priory",
+"lon": -0.55656,
+"lat": 51.4442,
+"notable": true
+},
+{
+"name": "St Mary's Priory Church",
+"lon": -2.71396,
+"lat": 51.81323,
+"notable": true
+},
+{
+"name": "St Mary, Holmcultram Abbey",
+"lon": -3.28303,
+"lat": 54.84532,
+"notable": true
+},
+{
+"name": "St Marys Abbey",
+"lon": -1.9895,
+"lat": 52.79011,
+"notable": false
+},
+{
+"name": "St Michael's Priory Church, Ewenny Priory",
+"lon": -3.5676,
+"lat": 51.4888,
+"notable": false
+},
+{
+"name": "St Mirin's RC Cathedral",
+"lon": -4.41655,
+"lat": 55.84747,
+"notable": true
+},
+{
+"name": "St Moluag's Cathedral",
+"lon": -5.48032,
+"lat": 56.53466,
+"notable": true
+},
+{
+"name": "St Nicholas Cathedral",
+"lon": -1.61121,
+"lat": 54.97008,
+"notable": true
+},
+{
+"name": "St Nicholas Priory",
+"lon": -3.53507,
+"lat": 50.72184,
+"notable": true
+},
+{
+"name": "St Ninian's Cathedral",
+"lon": -3.43546,
+"lat": 56.39905,
+"notable": true
+},
+{
+"name": "St Olave's Priory",
+"lon": 1.62397,
+"lat": 52.53813,
+"notable": false
+},
+{
+"name": "St Oswald's Priory Roman tilery",
+"lon": -2.24779,
+"lat": 51.86936,
+"notable": false
+},
+{
+"name": "St Paul's Cathedral",
+"lon": -2.96813,
+"lat": 56.46102,
+"notable": true
+},
+{
+"name": "St Paul's Cathedral",
+"lon": -0.09844,
+"lat": 51.51378,
+"notable": true
+},
+{
+"name": "St Peter's Cathedral",
+"lon": -5.94445,
+"lat": 54.599,
+"notable": true
+},
+{
+"name": "St Saviour's Priory",
+"lon": -0.30151,
+"lat": 52.91098,
+"notable": false
+},
+{
+"name": "St Saviour's Priory",
+"lon": -0.06926,
+"lat": 51.53211,
+"notable": false
+},
+{
+"name": "St Swithun's Priory (site of)",
+"lon": -1.31473,
+"lat": 51.06041,
+"notable": false
+},
+{
+"name": "St. Andrews Cathedral",
+"lon": -2.09301,
+"lat": 57.14906,
+"notable": true
+},
+{
+"name": "St. Augustine's Abbey",
+"lon": 1.08797,
+"lat": 51.27819,
+"notable": true
+},
+{
+"name": "St. Botolph's Priory (Ruins)",
+"lon": 0.90448,
+"lat": 51.88742,
+"notable": true
+},
+{
+"name": "St. Cecilia's Abbey",
+"lon": -1.14635,
+"lat": 50.72835,
+"notable": true
+},
+{
+"name": "St. Davids Priory Church",
+"lon": -3.94206,
+"lat": 51.6179,
+"notable": false
+},
+{
+"name": "St. Dominic's Priory Church",
+"lon": -1.59752,
+"lat": 54.97428,
+"notable": true
+},
+{
+"name": "St. George's Cathedral",
+"lon": -0.14434,
+"lat": 51.53026,
+"notable": true
+},
+{
+"name": "St. John's Abbey Gatehouse",
+"lon": 0.90133,
+"lat": 51.88555,
+"notable": false
+},
+{
+"name": "St. Macartin's Cathedral (Enniskillen Parish CoI)",
+"lon": -7.64068,
+"lat": 54.34643,
+"notable": true
+},
+{
+"name": "St. Martin's Priory",
+"lon": -1.72798,
+"lat": 54.40186,
+"notable": true
+},
+{
+"name": "St. Michael's Abbey Church",
+"lon": -0.74965,
+"lat": 51.29716,
+"notable": true
+},
+{
+"name": "St. Nicholas Priory Ruins",
+"lon": -6.33121,
+"lat": 49.94721,
+"notable": true
+},
+{
+"name": "St. Serf's Priory (remains of)",
+"lon": -3.35309,
+"lat": 56.18774,
+"notable": false
+},
+{
+"name": "St.Barnabas Catholic Cathedral",
+"lon": -1.15713,
+"lat": 52.95467,
+"notable": true
+},
+{
+"name": "Stainfield Priory",
+"lon": -0.33459,
+"lat": 53.24401,
+"notable": true
+},
+{
+"name": "Stanlaw Abbey",
+"lon": -2.85984,
+"lat": 53.29034,
+"notable": true
+},
+{
+"name": "Stixwould Priory",
+"lon": -0.24615,
+"lat": 53.17863,
+"notable": true
+},
+{
+"name": "Stonegrave Minster",
+"lon": -0.9966,
+"lat": 54.19253,
+"notable": true
+},
+{
+"name": "Strata Florida Abbey",
+"lon": -3.8385,
+"lat": 52.27536,
+"notable": true
+},
+{
+"name": "Sunderland Minster",
+"lon": -1.38886,
+"lat": 54.90577,
+"notable": true
+},
+{
+"name": "Swaffham Bulbeck Benedictine Priory",
+"lon": 0.28241,
+"lat": 52.24728,
+"notable": true
+},
+{
+"name": "Swavesey Priory",
+"lon": -0.00307,
+"lat": 52.30554,
+"notable": true
+},
+{
+"name": "Sweetheart Abbey",
+"lon": -3.61892,
+"lat": 54.98009,
+"notable": true
+},
+{
+"name": "Swinshead Abbey",
+"lon": -0.14223,
+"lat": 52.94918,
+"notable": true
+},
+{
+"name": "Syro-Malabar Cathedral of St Alphonsa",
+"lon": -2.69676,
+"lat": 53.76366,
+"notable": true
+},
+{
+"name": "Talley Abbey",
+"lon": -3.99222,
+"lat": 51.97659,
+"notable": true
+},
+{
+"name": "Taunton Minster",
+"lon": -3.10075,
+"lat": 51.01567,
+"notable": true
+},
+{
+"name": "Tewkesbury Abbey",
+"lon": -2.16064,
+"lat": 51.99031,
+"notable": true
+},
+{
+"name": "Tewkesbury Abbey Gatehouse",
+"lon": -3.48855,
+"lat": 51.4075,
+"notable": true
+},
+{
+"name": "The Abbey Centre Chapel",
+"lon": -0.91416,
+"lat": 52.21593,
+"notable": false
+},
+{
+"name": "The Abbey Church of St Leonard",
+"lon": -0.34243,
+"lat": 52.08561,
+"notable": true
+},
+{
+"name": "The Abbey Gateway",
+"lon": -0.96675,
+"lat": 51.45643,
+"notable": true
+},
+{
+"name": "The Cathedral Church of the Holy Spirit, Guildford",
+"lon": -0.59002,
+"lat": 51.24112,
+"notable": true
+},
+{
+"name": "The Cathedral of Higher Praises Community Church",
+"lon": -1.46577,
+"lat": 53.38802,
+"notable": false
+},
+{
+"name": "The Friars - Aylesford Priory",
+"lon": 0.47156,
+"lat": 51.30317,
+"notable": true
+},
+{
+"name": "The Greek Orthodox Cathedral of Saint Andrew",
+"lon": -0.14131,
+"lat": 51.54556,
+"notable": true
+},
+{
+"name": "The Greek Orthodox Cathedral of the Holy Cross and St Michael",
+"lon": -0.20172,
+"lat": 51.57399,
+"notable": false
+},
+{
+"name": "The Lighthouse Cathedral - The Mega Church",
+"lon": -0.06167,
+"lat": 51.4636,
+"notable": false
+},
+{
+"name": "The Metropolitan Cathedral and Basilica of St Chad",
+"lon": -1.89878,
+"lat": 52.4856,
+"notable": true
+},
+{
+"name": "The Minster Church of St Denys",
+"lon": -2.18866,
+"lat": 51.20856,
+"notable": true
+},
+{
+"name": "The Priory",
+"lon": -3.60383,
+"lat": 50.51065,
+"notable": true
+},
+{
+"name": "The Priory",
+"lon": -3.27825,
+"lat": 50.75306,
+"notable": false
+},
+{
+"name": "The Priory",
+"lon": -1.21061,
+"lat": 51.76377,
+"notable": false
+},
+{
+"name": "The Priory Church",
+"lon": -0.93507,
+"lat": 53.85014,
+"notable": true
+},
+{
+"name": "The Priory Church of St Mary",
+"lon": -2.90014,
+"lat": 51.70258,
+"notable": true
+},
+{
+"name": "The Priory Church of St. Peter & St. Paul Leominster",
+"lon": -2.73566,
+"lat": 52.22934,
+"notable": true
+},
+{
+"name": "The Priory Church of the Holy Trinity",
+"lon": -1.089,
+"lat": 53.95653,
+"notable": true
+},
+{
+"name": "The Priory Rooms",
+"lon": -1.89579,
+"lat": 52.48234,
+"notable": true
+},
+{
+"name": "The Priory of St Pancras",
+"lon": 0.0087,
+"lat": 50.86838,
+"notable": true
+},
+{
+"name": "The Ruined Cathedral Church of St Michael",
+"lon": -1.50748,
+"lat": 52.40794,
+"notable": true
+},
+{
+"name": "The Smith Monument on Abbey Hill",
+"lon": -6.3361,
+"lat": 49.94783,
+"notable": false
+},
+{
+"name": "Thetford Priory",
+"lon": 0.74248,
+"lat": 52.41642,
+"notable": true
+},
+{
+"name": "Thorney Abbey",
+"lon": -0.10695,
+"lat": 52.62046,
+"notable": true
+},
+{
+"name": "Thornton Abbey",
+"lon": -0.30973,
+"lat": 53.65496,
+"notable": true
+},
+{
+"name": "Thornton Abbey And Gatehouse",
+"lon": -0.3114,
+"lat": 53.65501,
+"notable": true
+},
+{
+"name": "Tilty Abbey",
+"lon": 0.32552,
+"lat": 51.91496,
+"notable": true
+},
+{
+"name": "Tintern Abbey",
+"lon": -2.67679,
+"lat": 51.69711,
+"notable": true
+},
+{
+"name": "Titchfield Abbey",
+"lon": -1.23146,
+"lat": 50.85686,
+"notable": true
+},
+{
+"name": "Torre Abbey",
+"lon": -3.54059,
+"lat": 50.46391,
+"notable": true
+},
+{
+"name": "Tree Cathedral",
+"lon": -0.53703,
+"lat": 51.85269,
+"notable": false
+},
+{
+"name": "Tresco Abbey Gardens",
+"lon": -6.33271,
+"lat": 49.94822,
+"notable": true
+},
+{
+"name": "Truro Cathedral",
+"lon": -5.05126,
+"lat": 50.26411,
+"notable": true
+},
+{
+"name": "Tupholme Abbey",
+"lon": -0.28866,
+"lat": 53.19858,
+"notable": true
+},
+{
+"name": "Tynan Abbey",
+"lon": -6.83326,
+"lat": 54.32434,
+"notable": true
+},
+{
+"name": "Tynemouth Priory and Castle",
+"lon": -1.41785,
+"lat": 55.01789,
+"notable": true
+},
+{
+"name": "Ukrainian Catholic Cathedral of The Holy Family in Exile",
+"lon": -0.15065,
+"lat": 51.51359,
+"notable": true
+},
+{
+"name": "Ulverscroft Priory",
+"lon": -1.25993,
+"lat": 52.70995,
+"notable": true
+},
+{
+"name": "Vaudney Abbey",
+"lon": -0.46368,
+"lat": 52.78115,
+"notable": true
+},
+{
+"name": "Wakefield Cathedral",
+"lon": -1.49681,
+"lat": 53.68304,
+"notable": true
+},
+{
+"name": "Walsingham Priory (remains)",
+"lon": 0.87558,
+"lat": 52.89368,
+"notable": true
+},
+{
+"name": "Waltham Abbey - Olympics 2012 Monument",
+"lon": -0.0069,
+"lat": 51.68755,
+"notable": false
+},
+{
+"name": "Waltham Abbey Gatehouse",
+"lon": -0.00386,
+"lat": 51.68847,
+"notable": false
+},
+{
+"name": "Walton Abbey Remains",
+"lon": -0.44443,
+"lat": 53.93431,
+"notable": true
+},
+{
+"name": "Waverley Abbey",
+"lon": -0.75929,
+"lat": 51.20004,
+"notable": true
+},
+{
+"name": "Welbeck Abbey",
+"lon": -1.15648,
+"lat": 53.26231,
+"notable": true
+},
+{
+"name": "Wells Cathedral",
+"lon": -2.64348,
+"lat": 51.21039,
+"notable": true
+},
+{
+"name": "Wenlock Priory",
+"lon": -2.55525,
+"lat": 52.59745,
+"notable": true
+},
+{
+"name": "West Acre Priory",
+"lon": 0.63551,
+"lat": 52.70347,
+"notable": true
+},
+{
+"name": "West Ravendale Priory",
+"lon": -0.15321,
+"lat": 53.47943,
+"notable": true
+},
+{
+"name": "Westminster Abbey",
+"lon": -0.12739,
+"lat": 51.4994,
+"notable": true
+},
+{
+"name": "Westminster Cathedral",
+"lon": -0.13952,
+"lat": 51.49582,
+"notable": true
+},
+{
+"name": "Weybourne Priory",
+"lon": 1.14177,
+"lat": 52.94311,
+"notable": true
+},
+{
+"name": "Whalley Abbey",
+"lon": -2.41021,
+"lat": 53.82019,
+"notable": true
+},
+{
+"name": "Whipsnade Tree Cathedral",
+"lon": -0.53759,
+"lat": 51.85321,
+"notable": true
+},
+{
+"name": "Whitby Abbey",
+"lon": -0.60645,
+"lat": 54.48758,
+"notable": true
+},
+{
+"name": "White Ladies Priory",
+"lon": -2.25842,
+"lat": 52.66575,
+"notable": true
+},
+{
+"name": "Whitland Abbey",
+"lon": -4.60194,
+"lat": 51.83362,
+"notable": true
+},
+{
+"name": "Wigmore Abbey",
+"lon": -2.86635,
+"lat": 52.33663,
+"notable": true
+},
+{
+"name": "Wilmington Priory",
+"lon": 0.18995,
+"lat": 50.81723,
+"notable": true
+},
+{
+"name": "Winchester Cathedral",
+"lon": -1.31328,
+"lat": 51.06071,
+"notable": true
+},
+{
+"name": "Worksop Priory",
+"lon": -1.11569,
+"lat": 53.30385,
+"notable": true
+},
+{
+"name": "Worth Abbey Church",
+"lon": -0.11824,
+"lat": 51.09268,
+"notable": true
+},
+{
+"name": "Wymondham Abbey",
+"lon": 1.10748,
+"lat": 52.57047,
+"notable": true
+},
+{
+"name": "York Minster",
+"lon": -1.08208,
+"lat": 53.96234,
+"notable": true
+},
+{
+"name": "abbey buildings",
+"lon": -2.00788,
+"lat": 50.85478,
+"notable": false
+}
+]

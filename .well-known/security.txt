@@ -1,0 +1,4 @@
+Contact: https://docs.google.com/forms/d/e/1FAIpQLSffxConrLuyVVRws9qI1R_7WfINJCWUd6MTE28KszIzigs9aw/viewform
+Expires: 2027-11-19T00:00:00Z
+Preferred-Languages: en
+Canonical: https://urawizard.github.io/castle-app-site/.well-known/security.txt
